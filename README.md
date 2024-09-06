@@ -1,3 +1,6 @@
+
+This project is tested with BrowserStack 
+
 # angular-jwt
 
 This library will help you work with [JWTs](http://jwt.io/).
